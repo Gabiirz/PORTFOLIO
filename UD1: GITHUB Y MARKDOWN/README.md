@@ -32,11 +32,3 @@ Es posible que en algún momento pida un token de GitHub. Se pueden obtener en G
 
 → Generar token para acceder al repositorio que has creado.
 
-
-Entrega de ejercicios
--
-https://github.com/Gabiirz/Markdown.git
--
-### DESTACAR TEMA 2
-
-####
