@@ -32,3 +32,22 @@ Es posible que en algún momento pida un token de GitHub. Se pueden obtener en G
 
 → Generar token para acceder al repositorio que has creado.
 
+###### Qué he aprendido
+-> En este tema he aprendido bastantes cosas tanto de github como de markdown. 
+
+###### Qué no entiendo
+-> Hay algunas cosas de Markdown que tengo que repasar pero al estar todo bien explicado solo es leer y practicar.
+
+###### Qué es lo que más me ha gustado y qué es lo que menos
+-> El aprender Markdown me ha parecido muy curioso. Tocar el github a fondo es lo que mas me ha gustado. 
+
+###### Qué más me gustaría saber relacionado con la Unidad
+-> Cualquier cosa que sea nueva me gustaria.
+
+
+
+
+
+
+
+
